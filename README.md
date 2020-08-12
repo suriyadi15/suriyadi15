@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Suriyadi 👋
 
-<!--
-**suriyadi15/suriyadi15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer!
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="suriyadi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="suriyadi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Vue.js" width="26px" src="https://vuejs.org/images/logo.png" />](https://vuejs.org/)
+[<img align="left" alt="Nuxt.js" width="26px" src="https://nuxtjs.org/meta_400.png" />](https://nuxtjs.org/)
+
+<br />
+<br />
+
+<img align="left" alt="suriyadi15's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=suriyadi15&show_icons=true&hide_border=true" />
+
+[instagram]: https://instagram.com/suriyadi15
+[linkedin]: https://linkedin.com/in/suryadi121
