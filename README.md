@@ -17,7 +17,9 @@
 <br />
 <br />
 
-<img align="left" alt="suriyadi15's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suriyadi15&show_icons=true&theme=vue&count_private=true" />
+![github stats](https://github-readme-stats.vercel.app/api?username=suriyadi15&show_icons=true&theme=vue&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suriyadi15&layout=compact)
 
 [instagram]: https://instagram.com/suriyadi15
 [linkedin]: https://linkedin.com/in/suryadi121
