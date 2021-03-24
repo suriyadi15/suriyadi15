@@ -1,7 +1,6 @@
 ### Hi there, I'm Suriyadi 👋
 
-- I'm a Developer!
-- I'm currently working on [bisaccounting.com](https://bisaccounting.com) and [programgaji.com](https://programgaji.com) in [mpssoft.co.id](https://mpssoft.co.id)
+- I'm a Software Developer!
 
 ### Connect with me:
 
