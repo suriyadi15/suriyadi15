@@ -56,14 +56,6 @@
 | [**qristifier**](https://github.com/suriyadi15/qristifier) ([site](https://qristifier.pages.dev)) | Turns QRIS into printable standees, posters, and stickers with custom templates. | TypeScript, Hono, Astro |
 | [**hermithub**](https://github.com/suriyadi15/hermithub) ([site](https://hermithub.pages.dev)) | Self-hosted dashboard for code projects and AI coding agents (Claude Code, Codex, Gemini CLI). | TypeScript, Docker |
 
-## Experience
-
-- **Backend Developer**, Elemes.id (PT Lingkar Indonesia Mengajar), Remote, 2021 – Present
-- **Co-Founder & Lead Engineer**, Tenta.id (PT Teknologi Nusantara), 2025 – Present
-- **Backend Developer**, PT Putera Handal Indotama (Xeratic), Remote, 2021 – 2022
-- **Backend Developer**, PT Mitra Pasifik Solusindo (BisAccounting, OnTime Payroll), Medan, 2017 – 2021
-- **Android Developer (Freelance)**, Gerak – Virtual Race Indonesia, 2019 – 2020
-
 ## GitHub Stats
 
 <p align="center">
